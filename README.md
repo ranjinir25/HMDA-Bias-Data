@@ -14,3 +14,5 @@ https://www.consumerfinance.gov/data-research/hmda/historic-data/
 1. Clone this repository 
 2. Navigate to the NewData Directory
 3. Run the main.py file
+
+Contributors: Ranjini Rangamani, Murali T. S. Babu, Subham Behera (all of whom are Masters degree students at Cornell)
